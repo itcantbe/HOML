@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
-plotly
+matplotlib
+jupyter
+ipykernel
 joblib
-xgboost
